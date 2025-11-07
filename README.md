@@ -68,10 +68,26 @@ Cluster 2: Moderate CPC keywords — balanced cost-performance group.
 
 Cluster 3: High CPC keywords — premium group, fewer but costly clicks.
 
-These clusters help in segmenting keyword strategies: focusing budget on high-return clusters while managing spend on low-impact ones.
+These clusters help in segmenting keyword strategies: focusing budget on high-return clusters while managing spend on low-impact ones. 
+
+Elbow_plot.png
+<img width="1010" height="394" alt="Elbow_Plot png" src="https://github.com/user-attachments/assets/3812a2ab-3ae3-4d69-a1d6-af4b4993a9d3" />
+                                      
+Cluster_plot.png
+<img width="889" height="442" alt="Cluster_Plot png" src="https://github.com/user-attachments/assets/95b5dadf-6283-45f5-b211-c18e9388c698" />
+                                            
 
 
 🏁 Conclusion
 
 This short yet impactful project demonstrates how unsupervised learning (K-Means) can uncover patterns in keyword performance.
 The clustering approach helps marketers or analysts quickly identify groups of keywords with similar behavior and cost patterns — paving the way for smarter decision-making.
+
+👩‍💻 Author
+
+Huda Shaikh
+Certified Data Analyst | Passionate about turning data into stories
+📧 (mailto:hudashaikh.gp@gmail.com)
+📍 Pune, India
+
+⭐ If you liked this project, don’t forget to star this repo and connect with me for collaboration opportunities!
