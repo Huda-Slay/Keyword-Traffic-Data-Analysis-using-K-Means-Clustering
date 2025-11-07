@@ -2,6 +2,7 @@
 This project focuses on analyzing keyword traffic data to identify meaningful clusters based on Keyword ID and Cost Per Click (CPC) values. Using K-Means Clustering, we segment keywords into groups with similar traffic and cost behavior — which can help in optimizing keyword strategies and understanding ad performance patterns.
 The analysis was performed in Google Colab using Python’s data science libraries.
 
+
 🧩 Objectives
 
 To explore keyword traffic data and understand CPC distribution.
@@ -78,10 +79,16 @@ Cluster_plot.png
                                             
 
 
+📈 Visual Outputs
+Elbow Method	Cluster Boundaries
+
 🏁 Conclusion
 
 This short yet impactful project demonstrates how unsupervised learning (K-Means) can uncover patterns in keyword performance.
 The clustering approach helps marketers or analysts quickly identify groups of keywords with similar behavior and cost patterns — paving the way for smarter decision-making.
+
+You can view and run this project directly in Google Colab here:  
+👉 [Open in Google Colab](https://colab.research.google.com/drive/12tTtzxka9_m9Vy7ounsnC6Rhkvx7QyCK?usp=sharing)
 
 👩‍💻 Author
 
